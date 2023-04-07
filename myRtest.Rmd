@@ -1,0 +1,18 @@
+---
+title: "Test Formation"
+author: "Cassandra"
+date: "2023-04-07"
+output: html_document
+---
+
+## Un test de R Studio
+
+```{r}
+my_data <- as.data.frame(matrix(ncol=5,nrow = 10))
+```
+
+```{r}
+colnames(my_data) <- c('Cassandra','Roxane','Emilie','Cassy','Gbaboua')
+```
+
+/![▷ 10 banques d'images gratuites pour illustrer vos articles \...](https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive.jpg){alt="▷ 10 banques d'images gratuites pour illustrer vos articles ..."}

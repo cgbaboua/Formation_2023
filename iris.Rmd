@@ -1,0 +1,16 @@
+---
+title: "iris"
+author: "Cassandra"
+date: "2023-04-07"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+summary(iris)
+```
+
+```{r}
+plot(iris$Sepal.Length,iris$Petal.Length)
+```
+

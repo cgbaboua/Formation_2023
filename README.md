@@ -1,10 +1,9 @@
 # Formation_2023
 
-- Bienvenue sur le ReadMe de la formation des bonnes pratiques pour la reproductibilité - 
+- Welcome to the ReadMe file of the 'Good practice and reproductibility' formation - 
 
-- Test1 -
+- 1st test -
+- 2nd test -
+- 3rd test - 
 
-- Test 2 -
-- Test 3 - 
-
-Demonstration de modifications en ligne
+Demonstration of online modifications.
